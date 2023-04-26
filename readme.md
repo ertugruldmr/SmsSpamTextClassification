@@ -15,8 +15,8 @@
 - (A) [__Brief__](#brief)
   - [__Project__](#project)
   - [__Data__](#data)
-  - [__Demo__](#demo) -> [Live Demo]()
-  - [__Study__](#problemgoal-and-solving-approach) -> [Colab]()
+  - [__Demo__](#demo) -> [Live Demo](https://huggingface.co/spaces/ErtugrulDemir/SmsSpamClassification)
+  - [__Study__](#problemgoal-and-solving-approach) -> [Colab](https://colab.research.google.com/drive/1yl1GgMlScgiGDq1rOo4A4JjzwYUbnfl1)
   - [__Results__](#results)
 - (B) [__Detailed__](#Details)
   - [__Abstract__](#abstract)
@@ -44,16 +44,16 @@
   <table>
     <tr>
     <td>
-        <a target="_blank" href="" height="30"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="30">[Demo app] HF Space</a>
+        <a target="_blank" href="https://huggingface.co/spaces/ErtugrulDemir/SmsSpamClassification" height="30"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="30">[Demo app] HF Space</a>
       </td>
       <td>
-        <a target="_blank" href=""><img src="https://www.tensorflow.org/images/colab_logo_32px.png">[Demo app] Run in Colab</a>
+        <a target="_blank" href="https://colab.research.google.com/drive/1d_umCouHG_teRQKy_HAQehQELDEINnhG"><img src="https://www.tensorflow.org/images/colab_logo_32px.png">[Demo app] Run in Colab</a>
       </td>
       <td>
-        <a target="_blank" href=""><img src="https://www.tensorflow.org/images/GitHub-Mark-32px.png">[Traning pipeline] source on GitHub</a>
+        <a target="_blank" href="https://github.com/ertugruldmr/SmsSpamTextClassification/blob/main/study.ipynb"><img src="https://www.tensorflow.org/images/GitHub-Mark-32px.png">[Traning pipeline] source on GitHub</a>
       </td>
     <td>
-        <a target="_blank" href=""><img src="https://www.tensorflow.org/images/colab_logo_32px.png">[Traning pipeline] Run in Colab</a>
+        <a target="_blank" href="https://colab.research.google.com/drive/1yl1GgMlScgiGDq1rOo4A4JjzwYUbnfl1"><img src="https://www.tensorflow.org/images/colab_logo_32px.png">[Traning pipeline] Run in Colab</a>
       </td>
     </tr>
   </table>
@@ -63,11 +63,11 @@
 - Description
     - __classfy a sms text__ whether spam or not.
     - __Usage__: write a sms then use the button to classfy the sms text.
-- Embedded [Demo]() window from HuggingFace Space
+- Embedded [Demo](https://huggingface.co/spaces/ErtugrulDemir/SmsSpamClassification) window from HuggingFace Space
     
 
 <iframe
-	src=""
+	src="https://huggingface.co/spaces/ErtugrulDemir/SmsSpamClassification"
 	frameborder="0"
 	width="850"
 	height="450"
@@ -222,7 +222,7 @@ The project aimed classify sms texts into spam or not spam class. The study incl
     - Usage: write a sms text then use the button to classify it.
   - Demo
     - The demo app in the demo_app folder as an individual project. All the requirements and dependencies are in there. You can run it anywhere if you install the requirements.txt.
-    - You can find the live demo as huggingface space in this [demo link]() as full web page or you can also us the [embedded demo widget](#demo)  in this document.  
+    - You can find the live demo as huggingface space in this [demo link](https://huggingface.co/spaces/ErtugrulDemir/SmsSpamClassification) as full web page or you can also us the [embedded demo widget](#demo)  in this document.  
     
 ## License
 - This project is licensed under the Apache 2.0 License. See the [LICENSE](LICENSE) file for details.
